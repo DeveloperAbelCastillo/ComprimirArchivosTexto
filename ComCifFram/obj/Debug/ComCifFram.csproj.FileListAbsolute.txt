@@ -1,0 +1,6 @@
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\bin\Debug\ComCifFram.dll
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\bin\Debug\ComCifFram.pdb
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\obj\Debug\ComCifFram.csprojAssemblyReference.cache
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\obj\Debug\ComCifFram.csproj.CoreCompileInputs.cache
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\obj\Debug\ComCifFram.dll
+C:\Users\abelcastillol\source\repos\ComCif\ComCifFram\obj\Debug\ComCifFram.pdb

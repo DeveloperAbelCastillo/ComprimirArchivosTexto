@@ -1,0 +1,12 @@
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\bin\Debug\ComCifWin.exe
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\bin\Debug\ComCifWin.pdb
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\bin\Debug\ComCifFram.dll
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\bin\Debug\ComCifFram.pdb
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.csprojAssemblyReference.cache
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.Form1.resources
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.Properties.Resources.resources
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.csproj.GenerateResource.cache
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.csproj.CoreCompileInputs.cache
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.csproj.CopyComplete
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.exe
+C:\Users\abelcastillol\source\repos\ComCif\ComCifWin\obj\Debug\ComCifWin.pdb
